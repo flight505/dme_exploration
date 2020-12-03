@@ -2,7 +2,7 @@
 The dataset must contain the following column names: Patient_id, Sample_time, Result.
 Methotrexate concentration must be provided as 'Level_MTX'</small>
 
-
+<small> 'Start treatment threshold' - defines the concentration that indicates a new treatment.</small>
 
 <small> 'Start treatment threshold' - defines the concentration that indicates a new treatment.</small>
 

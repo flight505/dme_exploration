@@ -116,8 +116,8 @@ def main():
     dme_hour_42_threshold = st.sidebar.slider(
         f"Conc. µM for DME between hour 42 -> 42+{hour_confidence_bound}: ",
         0.0,
-        2.0,
-        0.2,
+        10.0,
+        1.0,
         0.1,
     )
     level_mtx_df["is_dme"] = (
