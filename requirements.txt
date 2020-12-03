@@ -4,3 +4,4 @@ streamlit==0.72.0
 plotly==4.13.0
 invoke==1.4.1
 Pillow==8.0.1
+xlrd==1.2.0
