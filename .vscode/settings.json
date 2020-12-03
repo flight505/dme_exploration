@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/local/anaconda3/envs/dme_exploration/bin/python",
+    "python.formatting.provider": "black"
+}
